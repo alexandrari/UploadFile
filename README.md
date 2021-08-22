@@ -1,2 +1,3 @@
-# UploadFile
-API para subir archivos al servidor con Node.js y Express.
+# API para subir archivos con Multer de Node.js.
+1. npm install 
+2. npm run dev
